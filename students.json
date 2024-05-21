@@ -1,0 +1,39 @@
+[
+    
+  
+    {
+      "Id": 1,
+      "Name": "mona",
+      "Email": "mona@gmail.com",
+      "Password": 365866,
+      "DepartmentId": 1
+    },
+    {
+      "Id": 2,
+      "Name": "ahmed",
+      "Email": "ahmed@gmail.com",
+      "Password": 365866,
+      "DepartmentId": 3
+    },
+    {
+      "Id": 3,
+      "Name": "ola",
+      "Email": "ola@gmail.com",
+      "Password": 365866,
+      "DepartmentId": 2
+    },
+    {
+      "Id": 4,
+      "Name": "ali",
+      "Email": "ali@gmail.com",
+      "Password": 365866,
+      "DepartmentId": 1
+    },
+    {
+      "Id": 5,
+      "Name": "seif",
+      "Email": "seif@gmail.com",
+      "Password": 365866,
+      "DepartmentId": 3
+    }
+  ]

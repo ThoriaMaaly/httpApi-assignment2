@@ -1,0 +1,38 @@
+[
+    {
+        "Id": 1,
+        "Name": "NetWork",
+        "Content": "4 chapters",
+        "DepartmentId": 1
+    },
+    {
+        "Id": 2,
+        "Name": "DataBase",
+        "Content": "5 chapters",
+        "DepartmentId": 3
+    },
+    {
+        "Id": 3,
+        "Name": "Back-End",
+        "Content": "3 chapters",
+        "DepartmentId": 2
+    },
+    {
+        "Id": 4,
+        "Name": "Flutters",
+        "Content": "4 chapters",
+        "DepartmentId": 2
+    },
+    {
+        "Id": 5,
+        "Name": "Front-End",
+        "Content": "5 chapters",
+        "DepartmentId": 3
+    },
+    {
+        "Id": 6,
+        "Name": "Android",
+        "Content": "7 chapters",
+        "DepartmentId": 1
+    }
+]
